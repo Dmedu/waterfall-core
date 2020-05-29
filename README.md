@@ -2,10 +2,10 @@
 
 瀑布流分组，根据高度均分数组数据。
 
-### 安装和使用
+### Installation and usage
 
 ```
-npm install react-native-fs --save
+npm install waterfall-core --save
 ```
 
 ```js
