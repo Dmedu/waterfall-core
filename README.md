@@ -49,4 +49,6 @@ options = {
 
 - `dataGroup(data:Array):Promise<void>`
 
-数据分组方法，`data`要求必须是数组。
+调用dataGroup方法进行分组计算，返回计算后的分组。
+
+> 注意：data类型为数组，且值类型为对象:`{ height:number }`
