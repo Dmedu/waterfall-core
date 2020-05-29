@@ -1,0 +1,41 @@
+{
+  "name": "waterfall-core",
+  "version": "1.0.0",
+  "description": "瀑布流分组，根据高度均分数组数据。",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel lib --out-dir dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dmedu/waterfall-core.git"
+  },
+  "keywords": [
+    "react waterfall",
+    "react-native waterfall",
+    "vue waterfall",
+    "waterfall",
+    "layout",
+    "layout component",
+    "ui component",
+    "ui",
+    "component"
+  ],
+  "author": "Ethan Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dmedu/waterfall-core/issues"
+  },
+  "homepage": "https://github.com/Dmedu/waterfall-core#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "^7.10.1",
+    "@babel/preset-env": "^7.10.1"
+  },
+  "dependencies": {
+    "@babel/core": "^7.10.1",
+    "@babel/polyfill": "^7.10.1",
+    "@babel/runtime": "^7.10.1",
+    "@babel/runtime-corejs2": "^7.10.1"
+  }
+}

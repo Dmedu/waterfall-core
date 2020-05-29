@@ -1,0 +1,11 @@
+{
+  "presets":[
+    ["@babel/preset-env",{
+      "modules":false,
+      "targets":"ie >= 8"
+    }]
+  ],
+  "plugins":[
+    ["@babel/plugin-transform-runtime",{ "corejs":2 }]
+  ]
+}
