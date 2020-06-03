@@ -52,3 +52,7 @@ options = {
 调用dataGroup方法进行分组计算，返回计算后的分组。
 
 > 注意：data类型为数组，且值类型为对象:`{ height:number }`
+
+## 作者
+
+[Ethan zhang](https://dmedu.github.io/EthanZhang.me/)
